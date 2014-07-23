@@ -1,5 +1,5 @@
 import Ember from 'ember';
-import startApp from 'ember-token-auth/tests/helpers/start-app';
+import startApp from '../helpers/start-app';
 
 var App;
 
